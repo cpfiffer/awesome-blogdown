@@ -312,5 +312,10 @@
 	"name": "Culture of Insight",
 	"url": "https://cultureofinsight.com/blog/",
 	"desc": "R focused blog of London based data consultancy Culture of Insight"
+},
+{
+	"name": "Cameron's Blog",
+	"url": "http://cameron.pfiffer.org",
+	"desc": "Writings on finance, data, and anything else."
 }
 ]
